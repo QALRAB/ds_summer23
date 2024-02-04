@@ -4,6 +4,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 
 - [Stephan Huber](https://github.com/hubchev): _Title of the paper_
 - [Lisanne vom Schemm](https://github.com/lisanneschemm):_Brexit: The Economics of International Disintegration_
+- [Mona Claßen](https://github.com/monaongit): _COVID-19, School Closures, and Outcomes_
 - [Felix Meven](https://github.com/Flix1000): _Profiting from Regulation: Evidence from the European Carbon Market_
 - [Qusai Alrabadi](https://github.com/QALRAB): _Is Inflation Just Around the Corner The Phillips Curve and Global Inflationary Pressures_
 - [Gina Overath](https://github.com/gover1312): _Women in Economics: Stalled Progress_
