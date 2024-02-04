@@ -4,6 +4,8 @@ Please put your first and second name here, link it to your GitHub profile, and 
 
 - [Stephan Huber](https://github.com/hubchev): _Title of the paper_
 - [Lisanne vom Schemm](https://github.com/lisanneschemm):_Brexit: The Economics of International Disintegration_
+- [Felix Meven](https://github.com/Flix1000): _Profiting from Regulation: Evidence from the European Carbon Market_
+- [Qusai Alrabadi](https://github.com/QALRAB): _Is Inflation Just Around the Corner The Phillips Curve and Global Inflationary Pressures_
 - [Gina Overath](https://github.com/gover1312): _Women in Economics: Stalled Progress_
 - [Sonali Agrawal](https://github.com/SonaliAgraw): _Data Science report Presentation Vitthal-Shukla Sonali-Agrawal Huber_
 - [Vitthal Shukla](https://github.com/VitthalGit): _Exploring Well Being in the UK between 2011 and 2014_
